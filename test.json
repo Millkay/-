@@ -1,19 +1,19 @@
 {
-  "title": "О моём перерождении в слизь",
-  "description": "Будет позже",
-  "artist": "Тайки Каваками",
-  "author": "Фьюз",
-  "cover": "Позже",
-  "chapters": {
-    "1": {
-      "title": "Тест",
-      "volume": "0",
-      "last_updated": "",
-      "groups": {
-        "Световой Раскат": [
-          "https://i.imgur.com/r6zvzMG.jpeg",
-          "https://i.imgur.com/r6zvzMG.jpeg"
-              ]
+  "title": "Test",
+  "description": "Test",
+  "artist": "Test",
+  "author": "Test",
+  "cover": "https://i.imgur.com/r6zvzMG.jpeg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": 1752537600,
+      "groups": {
+        "Test": [
+          "https://i.imgur.com/r6zvzMG.jpeg",
+          "https://i.imgur.com/r6zvzMG.jpeg"
+        ]
       }
     }
   }
