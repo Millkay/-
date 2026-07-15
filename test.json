@@ -1,0 +1,31 @@
+{
+  "title": "О моём перерождении в слизь",
+  "description": "будет позже",
+  "artist": "Тайки Каваками",
+  "author": "Фьюз",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Глава 133",
+      "volume": "30",
+      "last_updated": "",
+      "groups": {
+        "Световой Раскат": [
+          "https://files.catbox.moe/9drf58.avif",
+          ""
+        ]
+      }
+    },
+    "0": {
+      "title": "",
+      "volume": "",
+      "last_updated": "",
+      "groups": {
+        "TRANSLATOR": [
+          "",
+          ""
+        ]
+      }
+    }
+  }
+}
